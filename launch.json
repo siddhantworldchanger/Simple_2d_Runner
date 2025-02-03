@@ -1,0 +1,11 @@
+{
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Game",
+        "request": "launch",
+        "mainClass": "Game",
+        "projectName": "SubwaySurfersGame"
+      }
+    ]
+  }
